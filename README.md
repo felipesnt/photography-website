@@ -2,6 +2,8 @@
 
 This project was built to practice mixins and more features from SASS. It's a responsive website for a photography company.
 
+You can check the deployment of this project here: <a href="https://photography-website-olive.vercel.app/" target="_blank">click to access</a>.
+
 Technologies used:
 <ul>
 <li>HTML</li>
